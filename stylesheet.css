@@ -1,0 +1,68 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	width: 1000px;
+  	margin: 0 auto; 
+}
+
+.topnav {
+	text-align: center;
+	padding-top: 60px;
+}
+
+a:link {
+    color: navy;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: navy;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: navy;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+/* selected link */
+a:active {
+    color: navy;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+h2 {
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+
+span {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.job-title {
+	font-weight: bold;
+}
+
+.job-descrip {
+	padding: 10px;
+	padding-bottom: 30px;
+}
+
+.social {
+
+}
